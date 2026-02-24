@@ -33,51 +33,9 @@
         <!-- side-mobile-menu start -->
         <nav class="side-mobile-menu">
             <ul id="mobile-menu-active">
-                <li class="has-dropdown">
-                    <a href="index.html">Home</a>
-                    <ul class="sub-menu">
-                        <li><a href="index.html">Home Style 1</a></li>
-                        <li><a href="index-2.html">Home Style 2</a></li>
-                    </ul>
-                </li>
-                <li><a href="about.html">About Us</a></li>
-                <li class="has-dropdown">
-                    <a href="#">Events</a>
-                    <ul class="sub-menu">
-                        <li><a href="events.html">Events Grid</a></li>
-                        <li><a href="events-details.html">Events Details</a></li>
-                    </ul>
-                </li>
-                <li class="has-dropdown"><a href="#">Project</a>
-                    <ul class="submenu">
-                        <li><a href="project-01.html">Project One</a></li>
-                        <li><a href="project-02.html">Project Two</a></li>
-                        <li><a href="project-03.html">Project Three</a></li>
-                        <li><a href="project-gallery.html">Project Gallery</a></li>
-                        <li><a href="project-image.html">Project Image</a></li>
-                        <li><a href="project-video.html">Project Video</a></li>
-                    </ul>
-                </li>
-                <li class="has-dropdown"><a href="#">Blogs</a>
-                    <ul class="submenu">
-                        <li><a href="blog-grid.html">Blog Grid</a></li>
-                        <li><a href="blog-standard.html">Blog Standard</a></li>
-                        <li><a href="blog-details.html">Blog Details</a></li>
-                    </ul>
-                </li>
-                <li class="has-dropdown">
-                    <a href="#">Pages</a>
-                    <ul class="sub-menu">
-                        <li><a href="history.html">History</a></li>
-                        <li><a href="career.html">Career</a></li>
-                        <li><a href="team.html">Team</a></li>
-                        <li><a href="faq.html">FAQ</a></li>
-                    </ul>
-                </li>
-                <li><a href="contact.html">Contacts Us</a></li>
+                 @include('partials.navbar')
             </ul>
         </nav>
-        <!-- side-mobile-menu end -->
     </aside>
 
     <div class="body-overlay"></div>
