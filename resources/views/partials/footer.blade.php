@@ -18,18 +18,41 @@
                                 <li><a href="#"><i class="fa fa-envelope"></i> <span class="__cf_email__" data-cfemail="e4979194948b9690a48389858d88ca878b89">{{config('contact.emails.general')}}</span></a></li>
                                 <li><a href="#"><i class="fa fa-phone"></i>{{config('contact.phones.general')}}</a></li>
                             </ul>
+
+                            <!-- Social Media -->
+        <div class="footer-social mt-20">
+            <h6 class="mb-15">Follow Us</h6>
+
+            <a href="{{config("contact.socials.facebook")}}" target="_blank" class="socials"
+               style="background:#3b5998;">
+                <i class="fab fa-facebook"></i>
+            </a>
+
+            <a href="{{config("contact.socials.instagram")}}" target="_blank" class="socials"
+               style="background:#E1306C">
+                <i class="fab fa-instagram"></i>
+            </a>
+
+            <a href="{{config("contact.socials.twitter")}}" target="_blank" class="socials"
+               style="background:#1DA1F2">
+                <i class="fab fa-twitter"></i>
+            </a>
+
+            <a href="{{config("contact.socials.linkedin")}}" target="_blank" class="socials"
+               style="background:#0077B5">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!--scroll-target-btn-->
-            <a href="#top-menu" class="scroll-target"><i class="fa fa-arrow-up"></i></a>
-            <!--scroll-target-btn-->
+            
             <div class="copy-right-area pt-30">
                 <div class="row align-items-center">
                     <div class="col-xl-7 col-lg-7 col-md-6">
                         <div class="copyright mb-30 text-md-center">
-                            <p>© 2026 Given. All Rights Reserved</p>
+                            <p>© 2026 {{config('contact.name.full')}}. All Rights Reserved</p>
                         </div>
                     </div>
                 </div>

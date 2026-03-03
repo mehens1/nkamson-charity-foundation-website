@@ -39,7 +39,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-1 col-md-6 col-6 text-right d-flex align-items-center justify-content-end">
                         <div class="quote-btn mr-10">
-                            <a href="/" class="theme_btn theme_btn_bg">Donate Now<i
+                            <a href="/donate" class="theme_btn theme_btn_bg">Donate Now<i
                                     class="fa fa-arrow-right"></i></a>
                         </div>
                         <div class="hamburger-menu">

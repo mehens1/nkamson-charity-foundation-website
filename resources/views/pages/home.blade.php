@@ -19,7 +19,7 @@
                                     <li><a class="theme_btn theme_btn2 theme_btn_bg_02" href="/about" data-animation="fadeInLeft" data-delay=".5s">explore more <i
                                                 class="fa fa-arrow-right"></i></a>
                                     </li>
-                                    <li><a class="theme_btn theme-border-btn theme_btn_bg_02" href="/contact" data-animation="fadeInLeft" data-delay=".5s">donate now <i
+                                    <li><a class="theme_btn theme-border-btn theme_btn_bg_02" href="/donate" data-animation="fadeInLeft" data-delay=".5s">donate now <i
                                                 class="fa fa-arrow-right"></i></a>
                                     </li>
                                 </ul>
@@ -38,7 +38,7 @@
                                     <li><a class="theme_btn theme_btn2 theme_btn_bg_02" href="/about" data-animation="fadeInLeft" data-delay=".7s">explore more <i
                                                 class="fa fa-arrow-right"></i></a>
                                     </li>
-                                    <li><a class="theme_btn theme-border-btn theme_btn_bg_02" href="/contact" data-animation="fadeInLeft" data-delay=".7s">donate now <i
+                                    <li><a class="theme_btn theme-border-btn theme_btn_bg_02" href="/donate" data-animation="fadeInLeft" data-delay=".7s">donate now <i
                                                 class="fa fa-arrow-right"></i></a>
                                     </li>
                                 </ul>
@@ -75,7 +75,7 @@
                                 <span>The Right Place</span></h2>
                             <p>Nkamson Charity Foundation, founded in 2020, is a nonprofit organization committed to restoring hope, inspiring compassion, and driving sustainable positive change in the lives of the less privileged and vulnerable members of society. We believe that every individual, regardless of background or circumstance, deserves access to basic needs, equal opportunities, and the dignity of a fulfilling life.</p>
                         </div>
-                        <a class="theme_btn theme_btn_bg" href="about.html" data-animation="fadeInUp2" data-delay=".1s">explore more <i
+                        <a class="theme_btn theme_btn_bg" href="/about" data-animation="fadeInUp2" data-delay=".1s">explore more <i
                                                 class="fa fa-arrow-right"></i></a>
                     </div>
                 </div>
